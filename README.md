@@ -6,7 +6,7 @@ Transformer는 자연어 처리 분야에 있어 혁명을 불러일으킨 모�
 
 <img src="https://github.com/mathdoyun/Transformer/assets/135238974/6b268b85-7fa9-4c41-9ea7-5015fc17ddb6" width="50%" height="50%"/>
 
-구조가 복잡하지만 하나씩 차근차근 보니 이해할 수 있었고, 직접 코드를 작성하며 실습해보았다.
+구조가 복잡하지만 하나씩 차근차근 보니 이해할 수 있었고, 직접 코드를 작성하며 실습해보니 그 구조를 더 명확하게 파악할 수 있었다.
 
 > 출처: https://www.youtube.com/watch?v=AA621UofTUA&t=2622s
 
