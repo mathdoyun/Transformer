@@ -1,6 +1,6 @@
 ## Transformer
 
-논문 링크: [Transformer](https://arxiv.org/abs/1706.03762)
+논문 링크: [Transformer](https://arxiv.org/pdf/1706.03762.pdf)
 
 Transformer는 자연어 처리 분야에 있어 혁명을 불러일으킨 모델로, CNN이나 RNN을 사용하지 않고 오로지 Attention mechanism만을 사용했다는 특징을 가지고 있다. Transformer의 구조는 다음과 같다.
 
